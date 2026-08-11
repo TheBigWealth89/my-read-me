@@ -16,9 +16,6 @@ concurrent reservation engines, and fault-tolerant async processors.
 I care about data durability, observable systems, and writing code that 
 behaves correctly under load, not just in development.
 
-Currently looking for a backend or full-stack role where system design 
-decisions matter.
-
 ---
 
 ### Featured Projects
