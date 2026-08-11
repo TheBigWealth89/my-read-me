@@ -86,18 +86,6 @@ Production-ready FastAPI authentication microservice.
   <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=python&logoColor=white" alt="Alembic" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebigwealth89&show_icons=true&theme=radical&hide_border=true&hide_title=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thebigwealth89&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=00000000" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebigwealth89&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
 
 ---
 
